@@ -3,4 +3,6 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
-Hxq and xmj and dzy are my son.
+<<<<<<< HEAD
+Hxq and xmj and dzy are my son,too.
+
